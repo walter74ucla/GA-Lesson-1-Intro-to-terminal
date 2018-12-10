@@ -440,7 +440,7 @@ Open this folder structure in chrome and click on index.html.  Open the develope
 
 > => Hello World!
 
-**Congrats!** You've written your first "Hello World" of **ga_wdi_salty_sardines**!
+**Congrats!** You've written your first "Hello World" of **ga_wdi_sea_otters**!
 
 <br>
 <hr>
