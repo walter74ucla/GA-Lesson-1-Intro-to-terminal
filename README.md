@@ -217,7 +217,7 @@ Example:
 * Be obsessive, starting today
 * Inside your home folder, create a folder where everything from the class will live, and always put everything from class in there:
 
-`mkdir salty-sardines` (the name of our class; if you like you could add a prefix like `wdi` or `ga` something like that)<br>
+`mkdir sea-otters` (the name of our class; if you like you could add a prefix like `wdi` or `ga` something like that)<br>
 `cd salty-sardines`
 
 * In that folder, make a new folder for each day where the name includes the date and topics for the day, and go into it. Suggestion below:
