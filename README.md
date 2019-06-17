@@ -217,8 +217,8 @@ Example:
 * Be obsessive, starting today
 * Inside your home folder, create a folder where everything from the class will live, and always put everything from class in there:
 
-`mkdir june-bugs` (the name of our class; if you like you could add a prefix like `sei` or `ga` something like that)<br>
-`cd june-bugs`
+`mkdir sei-autumn-sweaters` (the name of our class; if you like you could add a prefix like `sei` or `ga` something like that)<br>
+`cd sei-autumn-sweaters`
 
 * In that folder, make a new folder for each day where the name includes the date and topics for the day, and go into it. Suggestion below:
 
